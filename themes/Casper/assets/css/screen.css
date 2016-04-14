@@ -1344,7 +1344,7 @@ body:not(.post-template) .post-title {
         min-height: 240px;
         height: 60%;
         padding: 15% 0;
-        background-image: url(../../../../images/capa.jpg) no-repeat;
+        background-image: url(../../../../images/capa.jpg);
     }
 
     .scroll-down,
