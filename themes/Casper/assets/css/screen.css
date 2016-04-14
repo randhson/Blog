@@ -1326,7 +1326,7 @@ body:not(.post-template) .post-title {
    10. Media Queries - Smaller than 900px
    ========================================================================== */
 
-@media only screen and (width: 100%) {
+@media only screen and (max-width: 1400px) {
 
     .main-nav {
         padding: 15px;
