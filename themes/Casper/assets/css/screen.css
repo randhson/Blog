@@ -427,6 +427,11 @@ margin on the iframe, cause it breaks stuff. */
     margin: 0;
 }
 
+#gbImage {
+   background-image: url(images/capa.jpg) no-repeat;
+   width: auto;
+   height: auto ;
+}
 
 /* ==========================================================================
    3. Utilities - These things get used a lot
